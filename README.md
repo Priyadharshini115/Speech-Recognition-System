@@ -40,6 +40,8 @@ Conclusion
 Speech recognition in Python offers a powerful way to build applications that can interact with users in natural language. With the help of libraries like SpeechRecognition, PyAudio, and DeepSpeech, developers can create a range of applications from simple voice commands to complex conversational interfaces. Despite the challenges, the potential for innovative applications is vast, making speech recognition an exciting area of development in Python
 
 **Output of the Task_2**
+![Task_2 Output](https://github.com/user-attachments/assets/37350bc1-7c34-4641-81fc-801fd271d618)
+
 
 
 
